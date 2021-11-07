@@ -10,12 +10,12 @@ import requests
 
 
 class Config:
-    MYSQL_HOST = 'db4free.net'
-    MYSQL_PORT = 3306
-    MYSQL_USER = 'datath'
-    MYSQL_PASSWORD = 'Sciences-ch24fillsdfchcqill'
-    MYSQL_DB = 'detraining'
-    MYSQL_CHARSET = 'utf8mb4'
+    MYSQL_HOST = '#######'
+    MYSQL_PORT = ###
+    MYSQL_USER = '######'
+    MYSQL_PASSWORD = '####'
+    MYSQL_DB = '#####'
+    MYSQL_CHARSET = '####'
 
 # For PythonOperator
 
